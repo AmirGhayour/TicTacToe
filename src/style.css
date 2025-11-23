@@ -1,0 +1,74 @@
+.root
+{
+	-fx-background-image: url("images/background.jpg");
+	-fx-background-repeat: stretch;
+}
+
+.againButton 
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/again.png");
+	-fx-pref-width: 100px;
+	-fx-pref-height: 100px;
+}
+
+.againButton:hover
+{
+	-fx-background-image: url("images/againHover.png");
+}
+
+.againButton:pressed
+{
+	-fx-background-image: url("images/againPressed.png");
+}
+
+.player1
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/1Player.png");
+	-fx-pref-width: 100px;
+	-fx-pref-height: 40px;
+}
+
+.player1:hover
+{
+	-fx-background-image: url("images/1PlayerHover.png");
+}
+
+.player1:pressed
+{
+	-fx-background-image: url("images/1PlayerPressed.png");
+}
+
+.player2
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/2Player.png");
+	-fx-pref-width: 100px;
+	-fx-pref-height: 40px;
+}
+
+.player2:hover
+{
+	-fx-background-image: url("images/2PlayerHover.png");
+}
+
+.player2:pressed
+{
+	-fx-background-image: url("images/2PlayerPressed.png");
+}
+
+.invisibleRect
+{
+	-fx-fill: transparent;
+}
+
+.XRect
+{
+	-fx-fill: url("images/X.png");
+}
+
+.ORect
+{
+	-fx-fill: url("images/O.png");
+}
