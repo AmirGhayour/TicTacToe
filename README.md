@@ -1,6 +1,6 @@
 # TicTacToe
 
-I developed this game during the Spring semester of 2018 as part of my _Artificial Intelligence and Expert Systems: Design of Algorithms_ course. The project took me roughly half a day to complete. 
+I developed this game during the Spring semester of 2018 as part of my _Artificial Intelligence and Expert Systems_ course. The project took me roughly half a day to complete. 
 
 I programmed the game using Java, implemented the MiniMax algorithm, and built its graphical user interface with JavaFX and Adobe Photoshop. 
 
